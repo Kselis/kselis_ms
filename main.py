@@ -1,5 +1,3 @@
-import pandas as pd
-import argparse as arg
 import functions as fn
 
 file_nme=str()
